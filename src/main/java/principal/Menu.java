@@ -106,7 +106,7 @@ public class Menu {
         imprimir("Ingrese nombre de la materia");
         String nombre = scanner.nextLine();
 
-        imprimir("Ingrese materias aprobadas por el alumno: (De manera secuencial, romper el bucle poniendo fin");
+        imprimir("Ingrese materias correlativas: (De manera secuencial, romper el bucle poniendo fin");
         List<String> materiasCorrelativas = new ArrayList<String>();
 
         while(true){

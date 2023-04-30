@@ -2,7 +2,7 @@ package principal;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mysql.cj.xdevapi.JsonArray;
+
 
 import java.sql.*;
 import java.util.ArrayList;
